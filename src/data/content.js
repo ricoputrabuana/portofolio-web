@@ -1,5 +1,5 @@
 import profilePhoto from "../assets/rico.png";
-import ganThumb from "../assets/projects/sketch.JPG";
+import ganThumb from "../assets/projects/sketch.jpg";
 import ehealthThumb from "../assets/projects/e-health.png";
 import auroraVideo from "../assets/projects/aurora_thumbnail.webm";
 
