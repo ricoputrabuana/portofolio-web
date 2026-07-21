@@ -108,7 +108,7 @@ export const projects = [
     description:
       "Mengembangkan model deep learning berbasis arsitektur pix2pix GAN untuk merekonstruksi citra wajah dari gambar sketsa. Proses pelatihan dan evaluasi dilakukan menggunakan TensorFlow dan Python, dengan metrik SSIM dan PSNR sebagai pengukuran akurasi hasil.",
     stack: ["Python", "TensorFlow", "GAN", "pix2pix"],
-    repoLink: "",
+    repoLink: "https://github.com/ricoputrabuana/predict-face-image",
     thumb: ganThumb,
     frameType: "window",
     appTitle: "Sketch2Photo - GAN Face Generator",
@@ -168,8 +168,7 @@ export const projects = [
     description:
       "Merancang dan mengimplementasikan aplikasi Android untuk informasi penyakit dan artikel kesehatan, dengan fitur pencarian yang interaktif dan mudah digunakan.",
     stack: ["Java", "Android Studio", "Firebase"],
-    // TODO: isi dengan URL repo GitHub project ini kalau sudah dipublish
-    repoLink: "https://github.com/ricoputrabuana/aurora-portfolio",
+    repoLink: "https://github.com/ricoputrabuana/e-health-mobile",
     thumb: ehealthThumb,
     gallery: toGallery(ehealthGalleryImages, {
       "01-login.jpeg": {
